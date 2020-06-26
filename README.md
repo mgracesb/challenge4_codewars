@@ -1,4 +1,4 @@
-# codewars3
+# Alien's Magic
 
 Some aliens are hiding in codewars. They have a magic that can change the time and space. The name of this magic is called lalala. The aliens will spell out the magic spell lalala, all the time and space of the object will be changed.
 
